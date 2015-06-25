@@ -1,0 +1,1 @@
+A category for manlte JSONTransformer that make it easy to transform json value to base data type value, also it can avoid unmatch data type which will cause crash!
